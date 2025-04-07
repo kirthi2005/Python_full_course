@@ -1,3 +1,14 @@
+#get marks from user and print the total
+
+#variable with string - f string, + , { }
+# print -> Hello Vivek! You are 18 years old. You got cash price of $999.99
+
+name = 'Vivek'
+print('Hi {name} ')
+
+
+
+
 name = "KIRUTHIKA"
 print(name.isupper())
 print(name.islower())
