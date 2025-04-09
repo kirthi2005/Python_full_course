@@ -7,8 +7,6 @@ name = 'Vivek'
 print('Hi {name} ')
 
 
-
-
 name = "KIRUTHIKA"
 print(name.isupper())
 print(name.islower())
