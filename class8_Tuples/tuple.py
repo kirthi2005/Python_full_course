@@ -18,3 +18,7 @@ coordinates = [(2,3),(67,89),(101.3,505.7)]
 print(coordinates)
 print(coordinates[1])
 
+tup = (21,36,14,25,36,54,36)
+print(tup.count(36))
+print(tup.index(36))
+print(len(tup))
