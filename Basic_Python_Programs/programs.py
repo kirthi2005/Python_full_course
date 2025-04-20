@@ -8,7 +8,7 @@ print("Hello Python")
 #
 # 5. Write a program to swap two variables with and without temporary variable
 #
-# 6.Write a program to generate a random number.
+# 6.Write a program to generate a random number. randint()
 #
 # 7. Write a program to convert kilometers to miles
 #
@@ -20,7 +20,7 @@ print("Hello Python")
 #
 # 25. Write a program to find ascii value  of a character
 #
-# 62. Write a program to split and join a string
+# 62. Write a program to split/slice and join a string
 #
 # 64. to find uncommon words from two strings
-#
+
